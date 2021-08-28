@@ -30,7 +30,7 @@ Wi-Fi及以太网：更换免驱卡94360CS2 正常 ✅
 
 USB定制 蓝牙 USB3.0 摄像头 正常 ✅
 
-睡眠 Big Sur测试正常 ✅
+睡眠 Big Sur 以及Monterey（21A5304g）测试正常 ✅
 
 触控板 i2C 多点手势 正常 ✅
 
@@ -42,5 +42,4 @@ USB定制 蓝牙 USB3.0 摄像头 正常 ✅
 
 2.HDMI未进行测试 驱动成功失败未知
 
-3.在Monterey Beta（21A5304g）环境下 睡眠失效 Big Sur正常
 
